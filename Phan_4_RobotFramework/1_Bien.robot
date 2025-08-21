@@ -44,3 +44,6 @@ Show User Info
 
 Show Path
     Log To Console    PATH: %{PATH}
+
+Test_GitHub
+    Log To Console    test Huong Nguyen
